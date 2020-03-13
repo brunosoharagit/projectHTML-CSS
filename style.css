@@ -16,20 +16,7 @@ body {
     background-size: cover;
 }
 
-#logo {
-    font-size: 50px;
-
-    float: left;
-    padding-top: 15px;
-    padding-left: 15px;
-
+header {
     background: rgba(0, 0, 0, 0.3);
-
-    border-radius: 10px 10px 10px 10px;
 }
 
-#menu a {
-    float: right;
-
-
-}
